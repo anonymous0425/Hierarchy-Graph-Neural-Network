@@ -42,15 +42,4 @@ python source/run.py --model 0 --processed_data paper --hid1 64 --hid2 128 --exp
 
 ## Pre-trained Models
 
-The pretrained model can be found in the 'pretrained_model' folder.
-
-## Results
-
-Our model achieves the following performance on :
-
-### [Jet Classification](https://www.biendata.com/competition/jet/data/)
-
-| Model        | AUC  | 
-| ------------------ |---------------- | 
-|HGN  |    0.836         |    
-
+The pretrained model can be found in the 'saved_model' folder.
