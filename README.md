@@ -1,7 +1,7 @@
 
 # Hierarchy graph neural network for jet classification in high-energy physics
 
-This repository is the official implementation of [Hierarchy graph neural network for jet classificationin high-energy physics](https://arxiv.org/abs/2030.12345). 
+This repository is the official implementation of Hierarchy graph neural network for jet classificationin high-energy physics. 
 ![The architecture of HGN](https://github.com/anonymous0425/Hierarchy-Graph-Neural-Network/blob/master/overview.png)
 
 
